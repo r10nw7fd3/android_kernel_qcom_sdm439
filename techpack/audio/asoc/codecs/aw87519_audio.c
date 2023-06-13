@@ -37,7 +37,7 @@
 #include <linux/timer.h>
 #include <linux/workqueue.h>
 #include <linux/hrtimer.h>
-#include <aw87519_audio.h>
+#include "aw87519_audio.h"
 
 /*******************************************************************************
  * aw87519 marco
